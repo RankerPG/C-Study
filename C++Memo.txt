@@ -15,6 +15,8 @@ cppreference.com - 헤더 파일 어떤거 추가해야 될지 알고싶을때 확인
 
 2019. 04. 03
 RAII? 찾아보기
+ - 2019. 04. 12 : C++에서 자주 쓰이는 idiom으로 자원의 안전한 사용을 위해 객체가 쓰이는 스코프를 벗어나면 자원을 해제해주는 기법이다
+			https://blog.seulgi.kim/2014/01/raii.html
 
 java의 vector[] list = new vector[10]은 포인터 10개 = vector** list = new Vector*[10]
 
